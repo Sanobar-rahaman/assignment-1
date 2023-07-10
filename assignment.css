@@ -48,10 +48,12 @@
 .bonus-section{
     text-align: center;
     align-items: center;
+    margin-top: 60px;
 }
 .flower-section{
     display: flex;
-    justify-content: space-evenly;
+    gap: 24px;
+    margin-left: 100px;
 }
 .flower-one{
     width: 200px;
@@ -70,6 +72,9 @@
     height: 250px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15)
+}
+.flower-name{
+    text-align: center;
 }
 /* main section style */
 .main-section{
@@ -95,5 +100,40 @@
 }
 .off{
     color: #E55473;
+}
+/* Instagram section style */
+.instagram-description{
+    text-align: center;
+}
+.photo-both{
+    display: flex;
+    gap: 20px;
+    /* margin-left: 100px; */
+    margin-right: 200px;
+}
+.photo-1{
+    width: 200px;
+    height: 220px;
+}
+.photo-2{
+    width: 200px;
+    height: 220px;
+}
+.photo-3{
+    width: 200px;
+    height: 220px;
+}
+.photo-4{
+    width: 200px;
+    height: 220px;
+}
+/* background image style */
+.background-image{
+    text-align: center;
+    background-image: url("Rectangle\ 9.png");
+    width: 650px;
+    /* margin-left: 120px; */
+    padding: 50px;
+    /* margin-right: 80px; */
 }
 
