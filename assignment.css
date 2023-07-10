@@ -132,8 +132,20 @@
     text-align: center;
     background-image: url("Rectangle\ 9.png");
     width: 650px;
-    /* margin-left: 120px; */
+    margin-left: 50px;
     padding: 50px;
+    margin-top: 80px;
     /* margin-right: 80px; */
+}
+/* footer style */
+.footer-section{
+    color: wheat;
+    text-align: center;
+    background-color: black;
+    padding: 70px;
+    margin-top: 80px;
+}
+.footer-description{
+    font-size: 8px;
 }
 
